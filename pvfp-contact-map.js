@@ -136,7 +136,7 @@ contactMap.on('style.load', () => {
         'type': 'Feature',
         'properties': {
           'description':
-          '<strong>Nisku, Alberta, Canada</strong><p>PV Fluid Products, Ltd.<br>1316 10 Street<br>Nisku, AB, Canada T9E 8K2</p>'
+          '<strong>Edmonton, Alberta, Canada</strong><p>PV Fluid Products, Ltd.<br>1054 103 A Street SW<br>Edmonton, AB, Canada T6W 2P6</p>'
         },
         'geometry': {
           'type': 'Point',
